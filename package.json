@@ -1,0 +1,11 @@
+{
+  "name": "clean-ts-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bruno Franco Puzoni <bpuzoni@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.11.7",
+    "typescript": "^4.8.4"
+  }
+}
